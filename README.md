@@ -4,8 +4,8 @@ This repository contains a collection of Python exercises focused on functions, 
 
 ## Environment
 <br>
-All exercises were written and tested in **Google Colab** (Jupyter Notebook).
-You can easily run them by uploading the notebook file to **Google Colab**.
+All exercises were written and tested in Google Colab (Jupyter Notebook).
+You can easily run them by uploading the notebook file to Google Colab.
 
 
 ## Purpose
