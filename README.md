@@ -5,7 +5,7 @@ This repository contains a collection of Python exercises focused on functions, 
 ## How to Use
 
 Open the notebook directly from this repository:
-👉 [Open Notebook](code/)
+👉 [Open Notebook](code/functions_and_loops_task.ipynb)
 
 ## Environment
 
